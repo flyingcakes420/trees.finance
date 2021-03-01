@@ -134,6 +134,10 @@ p.smalltext {
     background: url(img/hero.png) center center no-repeat;
     background-size: 38.375rem auto;
 }
+.content-paper {
+    width: 80%;
+
+}
 
 
 @media screen and (max-width: 768px) {
